@@ -89,7 +89,7 @@
     자체 콘텐츠 기반 학습 코칭 시스템을 통해 학생의 공부 방법·실행력·관리 구조를 근본적으로 개선하는 것을 목표로 합니다. <br/>
   </p>
   <p>
-    궁극적으로 설스터디는 <b> 학생이 스스로 공부를 설계하고 지속할 수 있도록 돕는 <br/>
+    설스터디는 <b> 학생이 스스로 공부를 설계하고 지속할 수 있도록 돕는 <br/>
     수능 국·영·수 학습 코칭 플랫폼 구축</b>을 지향합니다.
   </p>
   <p align="center">
@@ -140,7 +140,7 @@
   <tr>
     <td><b>기능 소개</b></td>
     <td>설스터디만의 기능 소개</td>
-    <td><a href="https://github.com/D-ev-Rabbit/BE">GitHub Link</a></td>
+    <td><a href="https://github.com/D-ev-Rabbit/.github/blob/main/FEATURES.md">GitHub Link</a></td>
   </tr>
 </table>
 </div>
