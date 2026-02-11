@@ -37,7 +37,7 @@
   <tr>
     <td>🛠️ <b>Infra</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white">
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white">
     </td>
   </tr>
 
@@ -104,7 +104,7 @@
 <!-- 전체 아키텍쳐 -->
 <div align="center">
   <h2>Infra Architecture</h2>
-  <img width="900" height="502" alt="Architecture" src="https://github.com/user-attachments/assets/3264dfc4-cc1f-4e4a-95a4-3d9a12166ebd" />
+  <img width="900" height="502" alt="Architecture" src="https://github.com/user-attachments/assets/32e7bbe1-17cf-4eae-9610-2ecd3f75106a" />
 </div>
 
 <!-- ERD -->
